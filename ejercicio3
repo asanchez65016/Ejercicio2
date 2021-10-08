@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+</head>
+<body>
+<ul style="list-style-type:square;">
+<li><a href="https://es.wikipedia.org/wiki/Gato_persa" title="Wikipedia gato persa" target=blank>Gato persa </a></li>
+<li><a href="https://es.wikipedia.org/wiki/Bengala_(gato)" target="blank" title="Wikipedia gato bengala">Gato bengala</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Gato_siam%C3%A9s" target="blank" title="Wikipedia gato siames">Gato siames</a></li>
+</ul>
+<ol>
+<li><a href="https://es.wikipedia.org/wiki/Sphynx" title="Wikipedia gato sphynx" target=blank>Gato sphynx</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Gato_com%C3%BAn_europeo" target="blank" title="Wikipedia gato común europeo">Gato común europeo</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Gato_oriental" target="blank" title="Wikipedia gato oriental">Gato oriental</a></li>
+</ol>
+</body>
+
