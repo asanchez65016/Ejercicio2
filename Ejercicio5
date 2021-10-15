@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1>  Falso AEMET </h1>     
+</head>
+
+<body>
+
+<form method=get action=http://www.aemet.es/es/buscador?>
+Introduce un municipio español:
+<input type=text name=str>
+<br>
+<br>
+<input type=submit value=Enviar>
+</form>
+
+</body>
+</html>
