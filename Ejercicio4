@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+</head>
+<body>
+<table border=1>
+<tr>
+<td colspan=2 style="text-align:center"> <h1> Periódicos </h1> </td>
+</tr>
+<tr>
+<td style=text-align:center> Tema </td>
+<td style=text-align:center> Ejemplo </td>
+</tr>
+<tr>
+<td style=text-align:center> General</td>
+<td> <p><a href=https://www.elmundo.es/ target=blank title="Página El mundo">El mundo</a></p>
+<p> <a href=https://www.elperiodico.com/es/ target=blank title="Página El periódico">Elperiódico</a></p> 
+<p> <a href=https://www.lavanguardia.com/ target=blank title="Página La vanguardia">
+La vanguardia</a> </p>
+</td>
+</tr>
+<tr>
+<td style=text-align:center> Deportes </td>
+<td> <p><a href=https://www.marca.com/ target=blank title="Página de Marca"> Marca</a></p>
+<p><a href=https://as.com/ target=blank title="Página de As"> As </a> </p>
+</tr>
+</table>
+</body>
+</html>
