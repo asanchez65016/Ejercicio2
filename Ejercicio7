@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+<form method=get action="http://www.aemet.es/es/buscador?">
+Selecciona un municipio:
+<br>
+<input type="radio" id=mst name=str value=Móstoles> 
+<label for=mst>Móstoles</label>
+<br>
+<input type="radio" id=albc name=str value=Albacete> 
+<label for=albc>Albacete</label>
+<br>
+<input type="radio" id=trc name=str value=Truchas> 
+<label for=trc>Truchas</label>
+<br>
+<input type=submit value=Enviar>
+</form>
+</body>
+</html>
