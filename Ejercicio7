@@ -9,8 +9,8 @@ Selecciona un municipio:
 <input type="radio" id=mst name=str value=Móstoles> 
 <label for=mst>Móstoles</label>
 <br>
-<input type="radio" id=albc name=str value=Albacete> 
-<label for=albc>Albacete</label>
+<input type="radio" id=flbr name=str value=Fuenlabrada> 
+<label for=flbr>Fuenlabrada</label>
 <br>
 <input type="radio" id=trc name=str value=Truchas> 
 <label for=trc>Truchas</label>
