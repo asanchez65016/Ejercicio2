@@ -6,7 +6,7 @@
 <form method="get" action="https://www.bing.com/search?">
 <label for="palabra"> Introduce una palabra:</label>
 <input type=text id="palabra" name=q placeholder="Escribe un texto">
-<br>
+<br> <br>
 <label for="lg"> Introduce un idioma:</label>
 <input type=text id=lg name="setlang" placeholder="Introduce un idioma">
 <br>
