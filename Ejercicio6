@@ -8,7 +8,7 @@
 <input type=text id="palabra" name=q placeholder="Escribe un texto">
 <br>
 <label for="lg"> Introduce un idioma:</label>
-<input type=text id=lg name=hl placeholder="Introduce un idioma">
+<input type=text id=lg name="setlang" placeholder="Introduce un idioma">
 <br>
 <input type=submit value=Enviar>
 </form>
