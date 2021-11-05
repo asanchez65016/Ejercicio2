@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<style>
+label{ 
+
+	
+	color: red; 
+}
+.submit{
+	color: green;
+}
+input{
+	color:  blue;
+}
+
+
+</style>	
+</head>
+<body>
+<table border=3>
+<form method="POST" action="http://formadorestic.com/alumnosasir2/procesaformulario_usuario.php">
+<tr>
+<td  style="text-align:center" colspan=2> <h1>User form </h1></td>
+</tr>
+<tr>
+<td style="text-align:center"><label for=txt>Enter  name</label></td>
+<td><input type=text id=txt name=nombre></td>
+</tr>
+<tr>
+<td style="text-align:center"><label for=psw>Enter  password</label></td>
+<td><input type=password id=psw name=password></td>
+</tr>
+<tr>
+<td style=text-align:center><label for=txta>Enter adress</label></td>
+<td style=text-align:center> <textarea id=txta rows="4" cols="20" name=direccion> </textarea> </td>
+</tr>
+<tr>
+<td style="text-align:center">Select a game</td>
+<td><input type=checkbox value="Hockey" id=hck name="deportes[]"><label for=hck>Hockey</label><br>
+<input type=checkbox value="Footbal" id=ftbl name="deportes[]"><label  for=ftbl>Footbal</label> <br>
+<input type=checkbox value="Badminton" id=bdm name="deportes[]"><label  for=bdm>Badminton</label> <br>
+<input type=checkbox value="Cricket" id=crk name="deportes[]"><label  for=crk>Cricket</label> <br>
+<input type=checkbox value="Volleyball" id=vlb name="deportes[]"><label  for=vlb>Volleyball</label></td>
+</tr>
+<tr>
+<td style="text-align:center">Gender</td>
+<td> <input type=radio value=Male  id=male name=sexo> <label for=male>Male</label> 
+<input type=radio value=Female id=female name=sexo> <label for=female>Female</label>
+</tr>
+<tr>
+<td style="text-align:center">Select ur age</td>
+<td><select name=edad id=ages>
+<option value=select>Select</option>
+<option  value=21>21</option>
+<option value=22>22</option>
+<option value=23>23</option>
+<option value=+23>+23</option></select></td>
+</tr>
+<tr>
+<td colspan=2 style=text-align:center> <input type=file></td>
+</tr>
+<tr>
+<td colspan=2 style=text-align:center><input type=button class=click_me value="Click Me">
+<input type="reset" class=reset name="restear"><input type=submit class=submit value="Submit Form"></td>
+</tr>
+</form>
+</table>
+</body>
+</htmL>
