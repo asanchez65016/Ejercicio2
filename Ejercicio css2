@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<style>
+table{
+	text-align: center;
+}
+.nombre:hover{
+	background-color: grey;
+	cursor: pointer;
+}
+</style>
+</head>
+<table border="1">
+	<tr>
+		<td colspan=2><h1> Lista alumnos</h1></td>
+	</tr>
+	<tr>
+		<td><h3> Nombre </h3></td>
+		<td><h3> Edad </h3></td>
+	</tr>
+	<tr class=nombre>
+		<td> Manolo </td>
+		<td> 32</td>
+	</tr>
+	<tr class="nombre">
+		<td> Eduardo </td>
+		<td> 23 </td>
+	</tr>
+	<tr class="nombre">
+		<td> Cristina </td>
+		<td> 26 </td>
+	</tr>
+</table
+</html>
