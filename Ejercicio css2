@@ -6,7 +6,7 @@ table{
 	text-align: center;
 }
 .nombre:hover{
-	background-color: grey;
+	background-color:#EBEBEB;
 	cursor: pointer;
 }
 </style>
